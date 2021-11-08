@@ -33,5 +33,5 @@ After Downloading and installing all the libraries, you need to do one small cha
 
 In this just open up TFT_eSPI folder and delete User_Setup.h file
 
-
+![file](https://i.ibb.co/B43jP04/Screenshot-2021-11-08-185507.jpg)
 After deleting this file, just download the new User_Setup.h file by clicking here and paste this [new file](https://techiesms.com/wp-content/uploads/2021/10/User_Setup.h) in the same folder as shown above
