@@ -17,3 +17,23 @@ Making a smart pot with Esp-32
 13. [2 pin Male-Female connectors x 2](https://www.amazon.in/dp/B0837W2VTN/ref=cm_sw_r_apan_glt_fabc_VW8JNQES21JE1QNBNAQH?_encoding=UTF8&psc=1)  
 14. 10k Resistor x 3  
 15. 47k Resistor x 2  
+
+So by going through the flowchart, you’ll come to know which emoji is shown at what particular time. And the logic for this is replicated inside the code. You can also download the code from below.
+
+Code
+
+Before you use the code, you first need to download & install several libraries whose links are mentioned below.
+
+1. [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)  
+2. [Pangodream_18650_CL](https://github.com/pangodream/18650CL)  
+3. [DHT](https://github.com/adafruit/DHT-sensor-library)  
+4. [JPEGDecoder](https://github.com/Bodmer/JPEGDecoder)  
+
+After Downloading and installing all the libraries, you need to do one small change to support the libraries for our ESP32 module. For that, just open the folder containing all the installed libraries of Arduino.
+
+In this just open up TFT_eSPI folder and delete User_Setup.h file
+
+
+After deleting this file, just download the new User_Setup.h file by clicking here and paste this new file in the same folder as shown above
+
+Now you can copy the below mentioned code and you are ready to use it.
