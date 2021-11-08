@@ -20,7 +20,7 @@ Making a smart pot with Esp-32
 
 So by going through the flowchart, you’ll come to know which emoji is shown at what particular time. And the logic for this is replicated inside the code. You can also download the code from below.
 
-Code
+## Code requirments
 
 Before you use the code, you first need to download & install several libraries whose links are mentioned below.
 
