@@ -18,8 +18,8 @@ Making a smart pot with Esp-32
 14. 10k Resistor x 3  
 15. 47k Resistor x 2  
 
-So by going through the flowchart, you’ll come to know which emoji is shown at what particular time. And the logic for this is replicated inside the code. You can also download the code from below.
-
+## ESP32 WROOM32 DevKit Pinout
+(img src="https://circuits4you.com/wp-content/uploads/2018/12/ESP32-Pinout.jpg")
 ## Code requirments
 
 Before you use the code, you first need to download & install several libraries whose links are mentioned below.
