@@ -19,7 +19,7 @@ Making a smart pot with Esp-32
 15. 47k Resistor x 2  
 
 ## ESP32 WROOM32 DevKit Pinout
-(img src="https://circuits4you.com/wp-content/uploads/2018/12/ESP32-Pinout.jpg")
+![pin_diagram](https://i.ibb.co/jz7wfMz/ESP32-Pinout.jpg)
 ## Code requirments
 
 Before you use the code, you first need to download & install several libraries whose links are mentioned below.
