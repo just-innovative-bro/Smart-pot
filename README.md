@@ -18,6 +18,8 @@ Making a smart pot with Esp-32
 14. 10k Resistor x 3  
 15. 47k Resistor x 2  
 16. [HT7333 LDO](https://www.amazon.in/Chanzon-HT7333-1-SOT-89-Consumption-Transistor/dp/B08M3937KX?dchild=1&keywords=ht7333&qid=1634983612&sr=8-1&linkCode=sl1&tag=wwwtechiesmsc-21&linkId=5a65f79e5154f9dbc8790c68058598ad&language=en_IN&ref_=as_li_ss_tl)
+## WROOM 32 pinout
+<p align="center"><img src="https://www.mischianti.org/wp-content/uploads/2021/02/ESP32-wroom-32-pinout-mischianti.jpg"></p>
 
 ## ESP32 WROOM32 DevKit Pinout
 <p align="center"><img src="https://i.ibb.co/jz7wfMz/ESP32-Pinout.jpg"></p>
