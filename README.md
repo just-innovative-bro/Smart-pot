@@ -3,7 +3,7 @@ Making a smart pot with Esp-32
 
 ## Components Required
 1. [ESP32 Wroom32 Module](https://www.amazon.in/dp/B08VJ2CKG1/ref=cm_sw_r_apan_glt_fabc_4EYKEFVJJVWBK3XV0ZNQ)  
-2. [Wemos D1 Mini charging Shield](https://www.amazon.in/dp/B094DF7Q2S/ref=cm_sw_r_apan_glt_fabc_FM2EBE5P4PPZQPTETVCC)  
+2. [Wemos D1 Mini charging Shield](https://www.amazon.in/Battery-Shield-V1-2-0-Lithium-Charging/dp/B09FH2YW7L?dchild=1&keywords=wemos+d1+mini+charging&qid=1633947211&sr=8-1&linkCode=sl1&tag=wwwtechiesmsc-21&linkId=d8bbfacd1afa6fbaab014cb34b7724e8&language=en_IN&ref_=as_li_ss_tl)  
 3. [8in TFT Touch Screen with SD card reader](https://www.amazon.in/dp/B08B1TH5RG/ref=cm_sw_r_apan_glt_fabc_3QB23C532V8MN6PVK6X2)  
 4. [Soil Moisture Sensor](https://www.amazon.in/dp/B07FM41J4F/ref=cm_sw_r_apan_glt_fabc_T6S0DVZ65EVSWFGG9CHC?_encoding=UTF8&psc=1)  
 5. [DHT11 Sensor](https://www.amazon.in/REES52-Digital-Temperature-Humidity-Compatible/dp/B01MXRT9DZ?crid=U57J52B0Y3IC&dchild=1&keywords=dht11+sensor&qid=1634983118&sprefix=DHT11,aps,895&sr=8-4&linkCode=sl1&tag=wwwtechiesmsc-21&linkId=2b4ea807d558d6a71ea31f8d428aaaba&language=en_IN&ref_=as_li_ss_tl)  
@@ -17,6 +17,7 @@ Making a smart pot with Esp-32
 13. [2 pin Male-Female connectors x 2](https://www.amazon.in/dp/B0837W2VTN/ref=cm_sw_r_apan_glt_fabc_VW8JNQES21JE1QNBNAQH?_encoding=UTF8&psc=1)  
 14. 10k Resistor x 3  
 15. 47k Resistor x 2  
+16. [HT7333 LDO](https://www.amazon.in/Chanzon-HT7333-1-SOT-89-Consumption-Transistor/dp/B08M3937KX?dchild=1&keywords=ht7333&qid=1634983612&sr=8-1&linkCode=sl1&tag=wwwtechiesmsc-21&linkId=5a65f79e5154f9dbc8790c68058598ad&language=en_IN&ref_=as_li_ss_tl)
 
 ## ESP32 WROOM32 DevKit Pinout
 <p align="center"><img src="https://i.ibb.co/jz7wfMz/ESP32-Pinout.jpg"></p>
