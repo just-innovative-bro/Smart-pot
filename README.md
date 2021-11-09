@@ -35,3 +35,20 @@ In this just open up TFT_eSPI folder and delete User_Setup.h file
 
 ![file](https://i.ibb.co/B43jP04/Screenshot-2021-11-08-185507.jpg)
 After deleting this file, just download the new User_Setup.h file by clicking here and paste this [new file](https://techiesms.com/wp-content/uploads/2021/10/User_Setup.h) in the same folder as shown above
+## How to install ESP-32 boards
+
+1. Attact below links in preferances.
+```
+https://dl.espressif.com/dl/package_esp32_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
+2. Go to tools --> Board --> Board Manager --> serch ESP --> Download ESP related.
+3. The installation process is finished.
+
+## Board selection
+
+![file](https://i.ibb.co/1XQLWZM/Screenshot-3.png)
+
+**Hit the upload button**
+
+## Circuit diagram
