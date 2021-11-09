@@ -56,3 +56,5 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 **Hit the upload button**
 
 ## Circuit diagram
+
+<p align="center"><img src="https://i.ibb.co/BnXG4Sv/c.jpg"></p>
