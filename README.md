@@ -1,5 +1,5 @@
 # Smart-pot
-Making a smart pot with Esp-32, which will show sojme interactive feelings of plants on a screen.
+Making a smart pot with Esp-32, which will show some interactive feelings of plants on a screen.
 
 ## Components Required
 1. [ESP32 Wroom32 Module](https://www.amazon.in/dp/B08VJ2CKG1/ref=cm_sw_r_apan_glt_fabc_4EYKEFVJJVWBK3XV0ZNQ)  
