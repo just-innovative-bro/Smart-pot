@@ -1,4 +1,4 @@
-# define DEBUG 0
+#define DEBUG 0
 // Necessary Libraries
 #include <SPI.h>
 #include <FS.h>
