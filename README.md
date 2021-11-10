@@ -1,6 +1,6 @@
 # Smart-pot
 Making a smart pot with Esp-32, which will show some interactive feelings of plants on a screen.
-
+Like thirsty, hot, cold, night, sleep.....
 ## Components Required
 1. [ESP32 Wroom32 Module](https://www.amazon.in/dp/B08VJ2CKG1/ref=cm_sw_r_apan_glt_fabc_4EYKEFVJJVWBK3XV0ZNQ)  
 2. [Wemos D1 Mini charging Shield](https://www.amazon.in/Battery-Shield-V1-2-0-Lithium-Charging/dp/B09FH2YW7L?dchild=1&keywords=wemos+d1+mini+charging&qid=1633947211&sr=8-1&linkCode=sl1&tag=wwwtechiesmsc-21&linkId=d8bbfacd1afa6fbaab014cb34b7724e8&language=en_IN&ref_=as_li_ss_tl)  
