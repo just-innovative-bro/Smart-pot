@@ -58,3 +58,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ## Circuit diagram
 
 <p align="center"><img src="https://i.ibb.co/BnXG4Sv/c.jpg"></p>
+
+## License
+<img src="https://img.shields.io/github/license/just-innovative-bro/F.R.I.D.A.Y">
+
+[MIT](https://choosealicense.com/licenses/mit/)
